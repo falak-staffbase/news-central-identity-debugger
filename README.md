@@ -5,7 +5,7 @@
 
 ---
 
-## 🏆 Staffbase Hackathon 2025
+## 🏆 Staffbase Hackathon 2026
 
 **Team:** Matthias Tietz, Muhammad Ahmad Falak, Amit Nath 
 **Category:** Developer Tooling / Customer Experience  
@@ -170,7 +170,7 @@ sb-auth-doctor/
 
 ## 🤝 Contributing
 
-This project was built during the Staffbase Hackathon 2025. Contributions, feedback, and issue reports are welcome.
+This project was built during the Staffbase Hackathon 2026. Contributions, feedback, and issue reports are welcome.
 
 ---
 
@@ -180,4 +180,4 @@ MIT — see [LICENSE](./LICENSE)
 
 ---
 
-*Built with ❤️ at Staffbase Hackathon 2025*
+*Built with ❤️ at Staffbase Hackathon 2026*
